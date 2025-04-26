@@ -3,6 +3,8 @@ DOMAIN-SUFFIX,drone-hacks.com
 
 #淘气兔机场订阅地址
 DOMAIN-SUFFIX,51tu.lol
+#中国国际机场订阅地址
+DOMAIN-SUFFIX,gawrgura.moe
 
 # NAME: Google
 # AUTHOR: blackmatrix7
