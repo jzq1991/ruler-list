@@ -1,5 +1,5 @@
 #中国国际机场
-DOMAIN,carpetpacific.com
+DOMAIN-SUFFIX,carpetpacific.com
 #老张的epg走直连
-DOMAIN,102031.xyz
-DOMAIN,51zmt.top
+DOMAIN-SUFFIX,102031.xyz
+DOMAIN-SUFFIX,51zmt.top
