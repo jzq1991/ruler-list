@@ -6,7 +6,6 @@
 # IP-CIDR: 15
 # IP-CIDR6: 7
 # TOTAL: 65
-DOMAIN-SUFFIX,cloudflare.dev
 DOMAIN-SUFFIX,cf-ipfs.com
 DOMAIN-SUFFIX,cf-ns.com
 DOMAIN-SUFFIX,cf-ns.net
