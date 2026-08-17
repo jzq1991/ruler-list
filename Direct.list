@@ -1,5 +1,9 @@
 #中国国际机场
 DOMAIN-SUFFIX,carpetpacific.com
+
 #老张的epg走直连
 DOMAIN-SUFFIX,102031.xyz
 DOMAIN-SUFFIX,51zmt.top
+
+npm证书获取需要直连
+DOMAIN-SUFFIX,letsencrypt.org
